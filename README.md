@@ -34,7 +34,7 @@ Detailed breakdown by vehicle type with a comparison table:
 - Revenue by payment method (Cash, Uber Wallet, Credit Card, Debit Card)
 - Revenue by customer
 
-
+![Revenue](screenshots/Revenue_Uber_Dashboard.PNG)
 
 ----
 
